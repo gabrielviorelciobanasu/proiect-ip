@@ -1,0 +1,10 @@
+C:\Users\viore\proiect-ip\FormView\bin\Debug\FormView.exe.config
+C:\Users\viore\proiect-ip\FormView\bin\Debug\FormView.exe
+C:\Users\viore\proiect-ip\FormView\bin\Debug\FormView.pdb
+C:\Users\viore\proiect-ip\FormView\obj\Debug\FormView.csprojAssemblyReference.cache
+C:\Users\viore\proiect-ip\FormView\obj\Debug\FormView.MovieReviewApplication.resources
+C:\Users\viore\proiect-ip\FormView\obj\Debug\FormView.Properties.Resources.resources
+C:\Users\viore\proiect-ip\FormView\obj\Debug\FormView.csproj.GenerateResource.cache
+C:\Users\viore\proiect-ip\FormView\obj\Debug\FormView.csproj.CoreCompileInputs.cache
+C:\Users\viore\proiect-ip\FormView\obj\Debug\FormView.exe
+C:\Users\viore\proiect-ip\FormView\obj\Debug\FormView.pdb
