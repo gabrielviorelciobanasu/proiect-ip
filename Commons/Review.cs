@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FormView
+namespace Commons
 {
-    class Review
+    public class Review
     {
         private int _rating;
         private string _comment;
@@ -19,7 +19,7 @@ namespace FormView
 
         public int GetRating()
         {
-            return _rating; 
+            return _rating;
         }
 
         public string GetComment()

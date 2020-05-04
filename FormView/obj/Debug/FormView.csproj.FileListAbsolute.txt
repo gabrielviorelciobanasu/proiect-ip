@@ -11,3 +11,14 @@ C:\Users\viore\proiect-ip\FormView\obj\Debug\FormView.pdb
 D:\Pavy\IP\proiect-ip-master\proiect-ip-master\FormView\bin\Debug\FormView.exe.config
 D:\Pavy\IP\proiect-ip-master\proiect-ip-master\FormView\obj\Debug\FormView.exe
 D:\Pavy\IP\proiect-ip-master\proiect-ip-master\FormView\obj\Debug\FormView.pdb
+D:\Pavy\IP\proiect\proiect-ip\FormView\bin\Debug\FormView.exe.config
+D:\Pavy\IP\proiect\proiect-ip\FormView\obj\Debug\FormView.exe
+D:\Pavy\IP\proiect\proiect-ip\FormView\obj\Debug\FormView.pdb
+D:\Pavy\IP\proiect\proiect-ip\FormView\bin\Debug\FormView.exe
+D:\Pavy\IP\proiect\proiect-ip\FormView\bin\Debug\FormView.pdb
+D:\Pavy\IP\proiect\proiect-ip\FormView\obj\Debug\FormView.csprojResolveAssemblyReference.cache
+D:\Pavy\IP\proiect\proiect-ip\FormView\obj\Debug\FormView.MovieReviewApplication.resources
+D:\Pavy\IP\proiect\proiect-ip\FormView\obj\Debug\FormView.Properties.Resources.resources
+D:\Pavy\IP\proiect\proiect-ip\FormView\obj\Debug\FormView.csproj.GenerateResource.Cache
+D:\Pavy\IP\proiect\proiect-ip\FormView\bin\Debug\Commons.dll
+D:\Pavy\IP\proiect\proiect-ip\FormView\bin\Debug\Commons.pdb
