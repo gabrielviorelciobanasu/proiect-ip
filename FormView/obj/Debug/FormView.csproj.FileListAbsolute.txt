@@ -22,3 +22,16 @@ D:\Pavy\IP\proiect\proiect-ip\FormView\obj\Debug\FormView.Properties.Resources.r
 D:\Pavy\IP\proiect\proiect-ip\FormView\obj\Debug\FormView.csproj.GenerateResource.Cache
 D:\Pavy\IP\proiect\proiect-ip\FormView\bin\Debug\Commons.dll
 D:\Pavy\IP\proiect\proiect-ip\FormView\bin\Debug\Commons.pdb
+D:\Pavy\IP\Proiect IP\proiect-ip\FormView\bin\Debug\FormView.exe.config
+D:\Pavy\IP\Proiect IP\proiect-ip\FormView\obj\Debug\FormView.exe
+D:\Pavy\IP\Proiect IP\proiect-ip\FormView\obj\Debug\FormView.pdb
+D:\Pavy\IP\Proiect IP\proiect-ip\FormView\bin\Debug\FormView.exe
+D:\Pavy\IP\Proiect IP\proiect-ip\FormView\bin\Debug\FormView.pdb
+D:\Pavy\IP\Proiect IP\proiect-ip\FormView\bin\Debug\Commons.dll
+D:\Pavy\IP\Proiect IP\proiect-ip\FormView\bin\Debug\Commons.pdb
+D:\Pavy\IP\Proiect IP\proiect-ip\FormView\obj\Debug\FormView.csprojResolveAssemblyReference.cache
+D:\Pavy\IP\Proiect IP\proiect-ip\FormView\obj\Debug\FormView.MovieReviewApplication.resources
+D:\Pavy\IP\Proiect IP\proiect-ip\FormView\obj\Debug\FormView.Properties.Resources.resources
+D:\Pavy\IP\Proiect IP\proiect-ip\FormView\obj\Debug\FormView.csproj.GenerateResource.Cache
+D:\Pavy\IP\Proiect IP\proiect-ip\FormView\bin\Debug\Newtonsoft.Json.dll
+D:\Pavy\IP\Proiect IP\proiect-ip\FormView\bin\Debug\Newtonsoft.Json.xml

@@ -3,3 +3,8 @@ D:\Pavy\IP\proiect\proiect-ip\Commons\bin\Debug\Commons.pdb
 D:\Pavy\IP\proiect\proiect-ip\Commons\obj\Debug\Commons.dll
 D:\Pavy\IP\proiect\proiect-ip\Commons\obj\Debug\Commons.pdb
 D:\Pavy\IP\proiect\proiect-ip\Commons\obj\Debug\Commons.csprojResolveAssemblyReference.cache
+D:\Pavy\IP\Proiect IP\proiect-ip\Commons\bin\Debug\Commons.dll
+D:\Pavy\IP\Proiect IP\proiect-ip\Commons\bin\Debug\Commons.pdb
+D:\Pavy\IP\Proiect IP\proiect-ip\Commons\obj\Debug\Commons.csprojResolveAssemblyReference.cache
+D:\Pavy\IP\Proiect IP\proiect-ip\Commons\obj\Debug\Commons.dll
+D:\Pavy\IP\Proiect IP\proiect-ip\Commons\obj\Debug\Commons.pdb

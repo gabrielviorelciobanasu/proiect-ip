@@ -26,5 +26,11 @@ namespace Commons
         {
             return _comment;
         }
+
+        public string MyToString()
+        {
+            return "Nota: " + GetRating() + "\n" +
+                "Comentariu: " + GetComment() + " \n";
+        }
     }
 }

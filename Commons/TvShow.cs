@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Commons
 {
-    public class TvShow : Type
+    public class TvShow : TvProduct
     {
         private int _noOfEpisodes;
         private int _minsPerEpisode;
@@ -16,10 +16,23 @@ namespace Commons
         {
             _noOfEpisodes = noOfEpisodes;
             _minsPerEpisode = minsPerEpisode;
+            base._type = "tvshow";
         }
-        protected override int GetLength()
+        public override int GetLength()
         {
             return _noOfEpisodes * _minsPerEpisode;
+        }
+
+        public override string MyToString()
+        {
+            return "Nume serial: " + GetName() + "\n" +
+                   "An apariție: " + GetYear() + "\n" +
+                   "Gen: " + GetGenre() + "\n" +
+                   "Număr de episoade: " + _noOfEpisodes + "\n" +
+                   "Durată episod: " + _minsPerEpisode + " minute \n" +
+                   "Durată totală: " + GetLength() + "\n" +
+                   "Descriere: " + GetDescription() + "\n" +
+                   "Rating mediu: " + AverageRating().ToString("0.0");
         }
     }
 }

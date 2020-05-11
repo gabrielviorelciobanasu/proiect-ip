@@ -1,0 +1,58 @@
+﻿[
+  {
+    name: "Avatar",
+    type: "film",
+    year: "2009",
+    genre: "Science Fiction",
+    length: "120",
+    description: "Avatar ii bate pe toti!",
+    reviews: [
+      {
+        rating: "8",
+        comentariu: "fain!"
+      },
+      {
+        rating: "9",
+        comentariu: "super fain!"
+      }
+    ]
+  },
+  {
+    name: "The 100",
+    type: "serial",
+    year: "2008",
+    genre: "Science Fiction",
+    length: "120",
+    description: "2012 ii bate pe toti!",
+    reviews: [
+      {
+        rating: "8",
+        comentariu: "fain!"
+      },
+      {
+        rating: "9",
+        comentariu: "super fain!"
+      }
+    ],
+    noOfEpisodes: "4",
+    minsPerEpisode: "60"
+  },
+  {
+    name: "Iron Man 2",
+    type: "film",
+    year: "2008",
+    genre: "Science Fiction, Action",
+    length: "123",
+    description: "Iron Man ii bate pe toti!",
+    reviews: [
+      {
+        rating: "8",
+        comentariu: "fain!"
+      },
+      {
+        rating: "9",
+        comentariu: "super fain!"
+      }
+    ]
+  }
+]
