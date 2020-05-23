@@ -10,7 +10,7 @@ namespace Commons
     {
         public Movie(string name, int year, string genre, int length, string description, List<Review> reviews) : base(name, year, genre, length, description, reviews)
         {
-            base._type = "movie";
+            base._type = "Film";
         }
 
         override public int GetLength()

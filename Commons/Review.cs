@@ -7,14 +7,16 @@ using System.Threading.Tasks;
 namespace Commons
 {
     public class Review
-    {
+    {   
         private int _rating;
         private string _comment;
+        private string _autor;
 
-        public Review(int rating, string comment)
+        public Review(int rating, string comment, string autor)
         {
             _rating = rating;
             _comment = comment;
+            _autor = autor;
         }
 
         public int GetRating()
@@ -26,11 +28,16 @@ namespace Commons
         {
             return _comment;
         }
+        private string GetAutor()
+        {
+            return _autor;
+        }
 
         public string MyToString()
         {
             return "Nota: " + GetRating() + "\n" +
-                "Comentariu: " + GetComment() + " \n";
+                "Comentariu: " + GetComment() + "\n" +
+                "Postat de: " + GetAutor() + "\n";
         }
     }
 }

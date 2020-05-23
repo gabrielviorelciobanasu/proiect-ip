@@ -81,7 +81,7 @@ namespace Commons
 
             foreach (Review review in _reviews)
             {
-                aux += review.MyToString() + "\n";
+                aux += review.MyToString()  + "\n";
             }
             return aux;
         }

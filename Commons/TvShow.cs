@@ -16,7 +16,7 @@ namespace Commons
         {
             _noOfEpisodes = noOfEpisodes;
             _minsPerEpisode = minsPerEpisode;
-            base._type = "tvshow";
+            base._type = "Serial";
         }
         public override int GetLength()
         {

@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Avatar",
+    "type": "Film",
+    "year": "2009",
+    "genre": "Science Fiction",
+    "description": "este un film epic științifico-fantastic american apărut la sfârșitul anului 2009, scris și regizat de regizorul canadian James Cameron. Acțiunea filmului se petrece în anul 2154 pe Pandora.",
+    "length": "162",
+    "reviews": [
+      {
+        "rating": 9,
+        "comment": "Un film impresionant!",
+        "autor": "anton1996"
+      },
+      {
+        "rating": 7,
+        "comment": "bun",
+        "autor": "pavel"
+      }
+    ]
+  },
+  {
+    "name": "The 100",
+    "type": "Serial",
+    "year": "2008",
+    "genre": "Science Fiction",
+    "length": "120",
+    "description": "2012 ii bate pe toti!",
+    "reviews": [
+      {
+        "rating": "8",
+        "comment": "fain!",
+        "autor": "mircea"
+      },
+      {
+        "rating": "9",
+        "comment": "super fain!",
+        "autor": "valentin"
+      },
+      {
+        "rating": 1,
+        "comment": "ipi",
+        "autor": "andrei"
+      },
+      {
+        "rating": 1,
+        "comment": "bun",
+        "autor": "pavel"
+      }
+    ],
+    "noOfEpisodes": "4",
+    "minsPerEpisode": "60"
+  },
+  {
+    "name": "Iron Man 2",
+    "type": "Film",
+    "year": "2008",
+    "genre": "Actiune",
+    "length": "123",
+    "description": "Iron Man ii bate pe toti!",
+    "reviews": [
+      {
+        "rating": "8",
+        "comment": "fain!",
+        "autor": "popa_andrei"
+      },
+      {
+        "rating": "9",
+        "comment": "super fain!",
+        "autor": "vicentiu2321"
+      }
+    ]
+  },
+  {
+    "name": "Terminator 3",
+    "type": "Film",
+    "year": "2006",
+    "genre": "Actiune",
+    "length": "123",
+    "description": "Terminator ii bate pe toti!",
+    "reviews": [
+      {
+        "rating": "8",
+        "comment": "fain!",
+        "autor": "marian_201"
+      },
+      {
+        "rating": "8",
+        "comment": "super fain!",
+        "autor": "vlad098"
+      }
+    ]
+  },
+  {
+    "name": "Prototype",
+    "type": "Film",
+    "year": "2016",
+    "genre": "Actiune",
+    "length": "118",
+    "description": "Prototype ii bate pe toti!!",
+    "reviews": [
+      {
+        "rating": "10",
+        "comment": "fain!",
+        "autor": "marian_201"
+      },
+      {
+        "rating": "9",
+        "comment": "super fain!",
+        "autor": "vlad098"
+      }
+    ]
+  }
+]
