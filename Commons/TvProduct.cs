@@ -93,7 +93,7 @@ namespace Commons
             {
                 aux += review.GetRating();
             }
-            return aux / _reviews.Count();
+            return Math.Round(aux / _reviews.Count(), 1);
         }
     }
 }

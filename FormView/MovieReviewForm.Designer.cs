@@ -61,6 +61,8 @@ namespace FormView
             this.richTextBoxInfo = new System.Windows.Forms.RichTextBox();
             this.tabPageReview = new System.Windows.Forms.TabPage();
             this.richTextBoxReviews = new System.Windows.Forms.RichTextBox();
+            this.buttonHelp = new System.Windows.Forms.Button();
+            this.buttonExit = new System.Windows.Forms.Button();
             this.groupBoxLogin.SuspendLayout();
             this.groupBoxUtilizatorAutentificat.SuspendLayout();
             this.groupBoxSearch.SuspendLayout();
@@ -385,11 +387,12 @@ namespace FormView
             // 
             // richTextBoxInfo
             // 
-            this.richTextBoxInfo.Enabled = false;
             this.richTextBoxInfo.Font = new System.Drawing.Font("Comic Sans MS", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.richTextBoxInfo.HideSelection = false;
             this.richTextBoxInfo.Location = new System.Drawing.Point(0, 0);
             this.richTextBoxInfo.Name = "richTextBoxInfo";
-            this.richTextBoxInfo.Size = new System.Drawing.Size(1147, 506);
+            this.richTextBoxInfo.ReadOnly = true;
+            this.richTextBoxInfo.Size = new System.Drawing.Size(1147, 496);
             this.richTextBoxInfo.TabIndex = 0;
             this.richTextBoxInfo.Text = "";
             // 
@@ -409,15 +412,38 @@ namespace FormView
             this.richTextBoxReviews.Font = new System.Drawing.Font("Comic Sans MS", 19.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.richTextBoxReviews.Location = new System.Drawing.Point(3, 1);
             this.richTextBoxReviews.Name = "richTextBoxReviews";
+            this.richTextBoxReviews.ReadOnly = true;
             this.richTextBoxReviews.Size = new System.Drawing.Size(1148, 505);
             this.richTextBoxReviews.TabIndex = 0;
             this.richTextBoxReviews.Text = "";
+            // 
+            // buttonHelp
+            // 
+            this.buttonHelp.Location = new System.Drawing.Point(966, 726);
+            this.buttonHelp.Name = "buttonHelp";
+            this.buttonHelp.Size = new System.Drawing.Size(91, 34);
+            this.buttonHelp.TabIndex = 1;
+            this.buttonHelp.Text = "Ajutor";
+            this.buttonHelp.UseVisualStyleBackColor = true;
+            this.buttonHelp.Click += new System.EventHandler(this.buttonHelp_Click);
+            // 
+            // buttonExit
+            // 
+            this.buttonExit.Location = new System.Drawing.Point(1072, 726);
+            this.buttonExit.Name = "buttonExit";
+            this.buttonExit.Size = new System.Drawing.Size(91, 34);
+            this.buttonExit.TabIndex = 4;
+            this.buttonExit.Text = "Ieșire";
+            this.buttonExit.UseVisualStyleBackColor = true;
+            this.buttonExit.Click += new System.EventHandler(this.buttonExit_Click);
             // 
             // MovieReviewApplication
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1179, 723);
+            this.ClientSize = new System.Drawing.Size(1179, 762);
+            this.Controls.Add(this.buttonExit);
+            this.Controls.Add(this.buttonHelp);
             this.Controls.Add(this.tabControlData);
             this.Controls.Add(this.groupBoxAdaugareReview);
             this.Controls.Add(this.groupBoxSearch);
@@ -475,6 +501,8 @@ namespace FormView
         private System.Windows.Forms.Label labelUserAutentificat;
         private System.Windows.Forms.Button buttonLogout;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Button buttonHelp;
+        private System.Windows.Forms.Button buttonExit;
     }
 }
 

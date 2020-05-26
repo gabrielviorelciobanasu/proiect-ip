@@ -14,8 +14,13 @@
       },
       {
         "rating": 7,
-        "comment": "bun",
+        "comment": "Nu este pe gustul meu, dar e cel putin ok.",
         "autor": "pavel"
+      },
+      {
+        "rating": 9,
+        "comment": "Mult mai placut decat ma asteptam. :)",
+        "autor": "popoiu_valentin"
       }
     ]
   },
@@ -39,13 +44,8 @@
       },
       {
         "rating": 1,
-        "comment": "ipi",
-        "autor": "andrei"
-      },
-      {
-        "rating": 1,
-        "comment": "bun",
-        "autor": "pavel"
+        "comment": "sdfsd",
+        "autor": "paul"
       }
     ],
     "noOfEpisodes": "4",
@@ -88,6 +88,11 @@
         "rating": "8",
         "comment": "super fain!",
         "autor": "vlad098"
+      },
+      {
+        "rating": 10,
+        "comment": "IMPRESIONANT!",
+        "autor": "razvan"
       }
     ]
   },
@@ -110,5 +115,30 @@
         "autor": "vlad098"
       }
     ]
-  }
+  },
+  {
+    "name": "Joker",
+    "type": "Film",
+    "year": "2019",
+    "genre": "Drama",
+    "length": "122",
+    "description": "Filmul își concentrează acțiunea originală și nemaivăzută până acum pe marile ecrane în jurul unuia dintre cele mai controversate personaje negative din universul DC.",
+    "reviews": [
+      {
+        "rating": "10",
+        "comment": "Deosebit!",
+        "autor": "marian_201"
+      },
+      {
+        "rating": "9",
+        "comment": "Un film unic!",
+        "autor": "vlad098"
+      },
+      {
+        "rating": "10",
+        "comment": "IMPRESIONANT!",
+        "autor": "razvan"
+      }
+    ]
+  },
 ]

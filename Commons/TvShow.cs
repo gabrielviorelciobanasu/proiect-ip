@@ -1,4 +1,19 @@
-﻿using System;
+﻿/**************************************************************************
+ *                                                                        *
+ *  File:        TvShow.cs                                                *
+ *  Copyright:   (c) 2020, Sarbu Razvan-Cristian                          *
+ *  Description:  Implementare clasa TvShow                               *       
+ *                                                                        *
+ *  This program is free software; you can redistribute it and/or modify  *
+ *  it under the terms of the GNU General Public License as published by  *
+ *  the Free Software Foundation. This program is distributed in the      *
+ *  hope that it will be useful, but WITHOUT ANY WARRANTY; without even   *
+ *  the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR   *
+ *  PURPOSE. See the GNU General Public License for more details.         *
+ *                                                                        *
+ **************************************************************************/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -30,9 +45,9 @@ namespace Commons
                    "Gen: " + GetGenre() + "\n" +
                    "Număr de episoade: " + _noOfEpisodes + "\n" +
                    "Durată episod: " + _minsPerEpisode + " minute \n" +
-                   "Durată totală: " + GetLength() + "\n" +
+                   "Durată totală: " + GetLength() + " minute \n"+
                    "Descriere: " + GetDescription() + "\n" +
-                   "Rating mediu: " + AverageRating().ToString("0.0");
+                   "Rating mediu: " + AverageRating();
         }
     }
 }
